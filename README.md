@@ -1,4 +1,4 @@
-- Hi, I'm Charles Weir. I work as a researcher at Lancaster University, UK
+Hi, I'm Charles Weir. I work as a researcher at Lancaster University, UK
 
 Most of my projects here are stuff related to the needs of a researcher, but will also have other applications. I'm particularly pleased with WordImagesAndTables, which I 
 use all the time myself when writing Word documents.
